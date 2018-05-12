@@ -1,0 +1,32 @@
+_repo: L-am-ricaine_18064
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsene-Arnaud
+    - Claretie, Arsène-Armand
+    - Claretie, Arsène-Arnaud
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18064'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: L'américaine
+url: http://www.gutenberg.org/ebooks/18064
